@@ -14,3 +14,5 @@ https://github.com/Griggorii/network-manager-fix-debian-ubuntu
 && dpkg-reconfigure keyboard-configuration
 
 Старые сим линки которые в корне / конечно надо удалить
+
+Ядро компилировалось на OS8.0 на базе 18.10
